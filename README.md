@@ -2,12 +2,12 @@
 
 ## 架構圖
 <p align="center">
-<img src="https://github.com/explore23556/Smart_Fan/blob/main/smart_fan_diagram.png"; width="40%";/>
+<img src="https://github.com/explore23556/Smart_Fan/blob/main/smart_fan_diagram.png"; width="50%";/>
 </p>
 
 ## 流程圖
 <p align="center">
-<img src="https://github.com/explore23556/Smart_Fan/blob/main/flow_chart.png"; width="40%";/>
+<img src="https://github.com/explore23556/Smart_Fan/blob/main/flow_chart.png"; width="50%";/>
 </p>
 
 ## 
